@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="hmBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A2E6B"/>
+      <stop offset="100%" stop-color="#040810"/>
+    </linearGradient>
+    <radialGradient id="hmGlow" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#00A3A3" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00A3A3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="520" fill="url(#hmBg)"/>
+  <circle cx="800" cy="220" r="420" fill="url(#hmGlow)"/>
+  <g stroke="#1BC8C8" stroke-width="1" opacity="0.2">
+    <path d="M0 130 H1600 M0 390 H1600 M400 0 V520 M800 0 V520 M1200 0 V520"/>
+  </g>
+  <g fill="#020408">
+    <path d="M660 520 C660 320 730 220 800 205 C870 220 940 320 940 520 Z"/>
+    <path d="M735 220 C735 130 745 70 800 70 C855 70 865 130 865 220 C900 240 905 305 870 335 C810 365 790 365 730 335 C695 305 700 240 735 220 Z"/>
+  </g>
+  <circle cx="800" cy="245" r="5" fill="#00E5E5" opacity="0.75"/>
+  <circle cx="768" cy="255" r="3.5" fill="#00E5E5" opacity="0.5"/>
+  <circle cx="832" cy="255" r="3.5" fill="#00E5E5" opacity="0.5"/>
+</svg>
