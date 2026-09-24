@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="anSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6FAEDA"/>
+      <stop offset="100%" stop-color="#DCEDF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="18" fill="url(#anSky)"/>
+  <rect x="0" y="330" width="400" height="70" fill="#7FA9C4" opacity="0.5"/>
+  <g fill="none" stroke="#0B3D91" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 340 L200 60 L250 340"/>
+    <path d="M200 60 L160 130"/>
+    <path d="M200 60 L240 130"/>
+    <path d="M160 130 L240 130"/>
+    <path d="M170 200 L230 200"/>
+    <path d="M178 260 L222 260"/>
+  </g>
+  <g stroke="#00A3A3" stroke-width="6" fill="none" opacity="0.85">
+    <path d="M170 90 a45 45 0 0 1 60 0"/>
+    <path d="M155 100 a70 70 0 0 1 90 0"/>
+  </g>
+  <g fill="#F4B400">
+    <circle cx="200" cy="60" r="8"/>
+  </g>
+</svg>
