@@ -1,0 +1,35 @@
+TESTVERSLAG
+
+Project: simpelrepo
+Tester: Jacob
+Datum: 29 september 2026
+Getest via: website + Pull Requests (zonder de code rechtstreeks te wijzigen)
+
+--------------------------------------------------
+RESULTATEN PER ONDERDEEL
+--------------------------------------------------
+
+1. Links
+   Getest: Alle links in menu, pagina's en footer werken en verwijzen naar de juiste pagina
+   Resultaat: OK
+
+2. Afbeeldingen
+   Getest: Afbeeldingen laden correct, juiste grootte, alt-tekst aanwezig
+   Resultaat: OK
+
+3. Inhoud
+   Getest: Teksten zijn correct, zonder spel- of typfouten en volledig
+   Resultaat: OK
+
+4. Lay-out
+   Getest: Weergave op desktop en mobiel, geen verspringende of overlappende elementen
+   Resultaat: OK
+
+5. Pull Requests
+   Getest: PR's bekeken en gecontroleerd op duidelijke beschrijving en werkende wijzigingen
+   Resultaat: OK
+
+--------------------------------------------------
+GEMELDE FOUT
+--------------------------------------------------
+

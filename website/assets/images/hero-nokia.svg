@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="skyH" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6FAEDA"/>
+      <stop offset="100%" stop-color="#DCEDF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="520" fill="url(#skyH)"/>
+  <g fill="#FFFFFF" opacity="0.7">
+    <ellipse cx="260" cy="90" rx="90" ry="24"/>
+    <ellipse cx="1300" cy="70" rx="110" ry="26"/>
+    <ellipse cx="900" cy="60" rx="70" ry="18"/>
+  </g>
+  <g fill="#2E5E86" opacity="0.5">
+    <rect x="80" y="280" width="140" height="200"/>
+    <rect x="1400" y="240" width="150" height="240"/>
+    <rect x="260" y="320" width="90" height="160"/>
+  </g>
+  <g fill="#0B3D91">
+    <rect x="520" y="150" width="560" height="330"/>
+    <rect x="520" y="150" width="560" height="26" fill="#082C6B"/>
+  </g>
+  <g fill="#E8F3FA" opacity="0.85">
+    <g id="hcol">
+      <rect x="560" y="200" width="40" height="40"/>
+      <rect x="630" y="200" width="40" height="40"/>
+      <rect x="700" y="200" width="40" height="40"/>
+      <rect x="770" y="200" width="40" height="40"/>
+      <rect x="840" y="200" width="40" height="40"/>
+      <rect x="910" y="200" width="40" height="40"/>
+      <rect x="980" y="200" width="40" height="40"/>
+    </g>
+    <use href="#hcol" y="70"/>
+    <use href="#hcol" y="140"/>
+    <use href="#hcol" y="210"/>
+  </g>
+  <rect x="80" y="478" width="1440" height="6" fill="#7FA9C4"/>
+  <g fill="#0B3D91" font-family="Poppins, sans-serif" font-weight="700" font-size="40" letter-spacing="4">
+    <text x="620" y="140">NOKIA</text>
+  </g>
+</svg>
